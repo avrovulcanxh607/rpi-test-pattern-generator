@@ -16,3 +16,10 @@ For FBI, run:
 sudo apt-get install fbi
 
 You may also want to update your Raspberry Pi.
+
+Next, you need to connect your buttons circuit to pins 18, 29 and 31.
+Import all the code and images in this project to the Pi's home folder, i.e. /home/pi/.
+
+Run 'run.py' by typing:
+
+sudo python run.py
