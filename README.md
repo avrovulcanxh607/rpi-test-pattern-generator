@@ -1,4 +1,4 @@
-# Raspberry Pi Test Pattern Genreator
+# Raspberry Pi Test Pattern Generator
 Files for making a PAL test pattern generator with a Raspberry Pi.
 I Intended to upload an entire Image file which you could run on the R.Pi. without having to do any software configuration, but it was much to large to put on Github.
 
@@ -25,3 +25,10 @@ Run 'run.py' by typing:
 sudo python run.py
 
 My own system was configured so that the screen does'nt go blank, and it has a 'splashscreen' which comes up at startup. I'm leaving all this up to you, as it took me many hours of googleing to make it work as I wanted and I can't remeber what worked and what didn't. I've include my splashscreen in case you want to use it.
+
+You are, of course, welcome to edit the code for your own features and ideas. I compiled it from various sources online while knowing next to nothing about Python, so I'm sure you can do the same.
+
+Here's a youtube video of my own sytem, in both the prototyping and finished stage:
+
+https://youtu.be/wIiouzbJC_g
+https://youtu.be/NR3X-FwhJMM
