@@ -23,3 +23,5 @@ Import all the code and images in this project to the Pi's home folder, i.e. /ho
 Run 'run.py' by typing:
 
 sudo python run.py
+
+My own system was configured so that the screen does'nt go blank, and it has a 'splashscreen' which comes up at startup. I'm leaving all this up to you, as it took me many hours of googleing to make it work as I wanted and I can't remeber what worked and what didn't. I've include my splashscreen in case you want to use it.
