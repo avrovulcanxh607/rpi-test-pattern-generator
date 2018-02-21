@@ -19,16 +19,18 @@ You may also want to update your Raspberry Pi.
 
 Next, you need to connect your buttons circuit to pins 18, 29 and 31.
 Import all the code and images in this project to the Pi's home folder, i.e. /home/pi/.
+My computer is too old to run Git, so I would download the files as a zip, extract them, and then use WinSCP to copy the files from the computer to the R. Pi. It's really easy, no extra configuration required to move files from one computer to another.
 
 Run 'run.py' by typing:
 
 sudo python run.py
 
-My own system was configured so that the screen does'nt go blank, and it has a 'splashscreen' which comes up at startup. I'm leaving all this up to you, as it took me many hours of googleing to make it work as I wanted and I can't remeber what worked and what didn't. I've include my splashscreen in case you want to use it.
+My own system was configured so that the screen does'nt go blank, and it has a 'splashscreen' which comes up at startup. I'm leaving all this up to you, as it took me many hours of googleing to make it work as I wanted and I can't remember what worked and what didn't. I've include my splashscreen in case you want to use it.
 
 You are, of course, welcome to edit the code for your own features and ideas. I compiled it from various sources online while knowing next to nothing about Python, so I'm sure you can do the same.
 
 Here's a youtube video of my own sytem, in both the prototyping and finished stage:
 
 https://youtu.be/wIiouzbJC_g
+
 https://youtu.be/NR3X-FwhJMM
