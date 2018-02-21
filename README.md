@@ -34,3 +34,7 @@ Here's a youtube video of my own sytem, in both the prototyping and finished sta
 https://youtu.be/wIiouzbJC_g
 
 https://youtu.be/NR3X-FwhJMM
+
+Since PAL and other analogue systems are now considered 'out-of-date', I might start another branch for a high definition version. This would be just for you, as I don't have any use for a HD test pattern generator. The only real changes I can think of that would have to be made would be the testcards. These won't be hard to save in a high definition format. I used a program called 'Test Card Maker' to make my testcards. It seems to be quite old, but can be downloaded from here:
+
+https://archive.org/details/tcmaker
